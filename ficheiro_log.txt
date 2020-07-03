@@ -1,0 +1,55 @@
+13:51:47 Inicio do programa! A correr no processo 3630
+13:51:47 Configuracoes lidas!
+13:51:47 Torre de controlo criada! A correr com o pid 3631
+13:51:50 NEW COMMAND => ARRIVAL AA08 init: 10 eta: 10 fuel: 100
+13:51:50 NEW COMMAND => ARRIVAL AA18 init: 10 eta: 15 fuel: 100
+13:51:51 NEW COMMAND => ARRIVAL AA28 init: 10 eta: 15 fuel: 100
+13:51:51 NEW COMMAND => ARRIVAL AA38 init: 10 eta: 15 fuel: 100
+13:51:51 NEW COMMAND => ARRIVAL AA48 init: 10 eta: 15 fuel: 100
+13:51:52 NEW COMMAND => ARRIVAL AA58 init: 30 eta: 15 fuel: 100
+13:51:52 Inicio da thread do voo AA48
+13:51:52 Inicio da thread do voo AA38
+13:51:52 Inicio da thread do voo AA18
+13:51:52 Voo AA38 no slot 1
+13:51:52 Voo AA18 no slot 2
+13:51:52 Voo AA48 no slot 0
+13:51:52 Inicio da thread do voo AA08
+13:51:52 Inicio da thread do voo AA28
+13:51:52 NEW COMMAND => ARRIVAL AA68 init: 30 eta: 15 fuel: 100
+13:51:52 NEW COMMAND => ARRIVAL AA78 init: 40 eta: 15 fuel: 100
+13:51:53 NEW COMMAND => ARRIVAL AA88 init: 40 eta: 15 fuel: 100
+13:51:53 NEW COMMAND => ARRIVAL AA98 init: 30 eta: 15 fuel: 100
+13:51:53 NEW COMMAND => ARRIVAL AA10 init: 30 eta: 15 fuel: 100
+13:51:53 NEW COMMAND => ARRIVAL AA20 init: 50 eta: 15 fuel: 100
+13:51:54 NEW COMMAND => DEPARTURE DD80 init: 50 takeoff: 100
+13:51:54 NEW COMMAND => DEPARTURE DD88 init: 30 takeoff: 100
+13:51:54 NEW COMMAND => DEPARTURE DD81 init: 30 takeoff: 100
+13:51:55 NEW COMMAND => DEPARTURE DD82 init: 40 takeoff: 100
+13:51:55 NEW COMMAND => DEPARTURE DD01 init: 20 takeoff: 100
+13:51:55 NEW COMMAND => DEPARTURE DD02 init: 50 takeoff: 100
+13:51:56 NEW COMMAND => DEPARTURE DD03 init: 40 takeoff: 100
+13:51:56 NEW COMMAND => DEPARTURE DD04 init: 50 takeoff: 100
+13:51:56 NEW COMMAND => DEPARTURE DD05 init: 30 takeoff: 100
+13:51:56 NEW COMMAND => DEPARTURE DD06 init: 40 takeoff: 100
+13:51:57 NEW COMMAND => DEPARTURE DD07 init: 60 takeoff: 100
+13:51:57 Inicio da thread do voo DD01
+13:51:57 Voo DD01 no slot 0
+13:51:57 NEW COMMAND => DEPARTURE DD08 init: 50 takeoff: 100
+13:52:02 Inicio da thread do voo DD88
+13:52:02 Inicio da thread do voo DD05
+13:52:02 Inicio da thread do voo AA10
+13:52:02 Inicio da thread do voo AA98
+13:52:02 Inicio da thread do voo AA68
+13:52:02 Inicio da thread do voo DD81
+13:52:02 Inicio da thread do voo AA58
+13:52:07 Inicio da thread do voo AA88
+13:52:07 Inicio da thread do voo DD03
+13:52:07 Inicio da thread do voo DD06
+13:52:07 Inicio da thread do voo DD82
+13:52:07 Inicio da thread do voo AA78
+13:52:12 Inicio da thread do voo DD08
+13:52:12 Inicio da thread do voo DD04
+13:52:12 Inicio da thread do voo DD80
+13:52:12 Inicio da thread do voo AA20
+13:52:12 Inicio da thread do voo DD02
+13:52:17 Inicio da thread do voo DD07
